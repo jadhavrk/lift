@@ -3,7 +3,7 @@
 ## About
 Lift is a hybrid mobile app that allows experienced powerlifters to switch between different powerlifting routines. 
 
-![Lift Demo](./lift-demo.JPG)
+![Lift Demo](./lift_demo.JPG)
 
 Demo: https://lift1n.herokuapp.com/
 
